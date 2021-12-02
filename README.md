@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zan31
 - 👀 I’m interested in programming especially in web developing
-- 🌱 I’m currently learning javascript on my own and in school we are working mainly with php and android studio
+- 🌱 I’m currently learning javascript on my own and in school we are working mainly with ruaby on rails and android studio
 - 📫 You can contact me on zan.hrastnik31@gmail.com, instagram @zan3110.
