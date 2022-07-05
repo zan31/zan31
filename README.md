@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zan31
+- 👋 Hi, I’m Zan Hrastnik
 - 👀 I’m interested in programming especially in web developing
-- 🌱 I’m currently learning javascript on my own and in school we are working mainly with ruaby on rails and android studio
+- 🌱 I’m currently learning advanced javascript and mobile app development with flutter.
 - 📫 You can contact me on zan.hrastnik31@gmail.com, instagram @zan3110.
