@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zan Hrastnik
-- 👀 I’m interested in programming especially in web developing
-- 🌱 I’m currently learning advanced javascript and mobile app development with flutter.
+- 👀 Love everything computer.
+- 🌱 I’m currently learning C, and everthing college like.
 - 📫 You can contact me on zan.hrastnik31@gmail.com, instagram @zan3110.
