@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zan Hrastnik
 - 👀 Love everything computer.
-- 🌱 I’m currently learning C, and everthing college like.
+- 🌱 I’m currently building projects in angular, spring boot and java
 - 📫 You can contact me on zan.hrastnik31@gmail.com, instagram @zan3110.
